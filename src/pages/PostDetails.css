@@ -1,0 +1,37 @@
+.post-details {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+.post-details h2 {
+  margin-bottom: 1rem;
+  color: #2d3748;
+}
+
+.post-details p {
+  color: #4a5568;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.post-meta {
+  color: #718096;
+  font-size: 0.95rem;
+  margin-top: 1.5rem;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #3182ce;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
